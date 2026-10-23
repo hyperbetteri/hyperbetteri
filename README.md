@@ -24,3 +24,7 @@ Most documents are available in both Hungarian and English.
 ## Open to
 
 AI-workflow analysis, LLM-output QA, validation systems, document and source validation.
+
+## Contact
+
+[hyperbetteri@gmail.com](mailto:hyperbetteri@gmail.com)
